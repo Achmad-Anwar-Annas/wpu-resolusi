@@ -5,3 +5,5 @@ RENCANA KONTEN WPIJ
 - PHP Frameworks
 - Interview
 - Vlogs
+tidur
+masak
