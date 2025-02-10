@@ -2,6 +2,7 @@ RENCANA KONTEN WPIJ
 - Javascript
   * ES6
   * Framework Javascript
+  * Angular
 - PHP Frameworks
 - Interview
 - Vlogs
